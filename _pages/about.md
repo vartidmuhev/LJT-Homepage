@@ -32,16 +32,16 @@ Publications
 
 **2025**
 - **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
-  Junteng Liu\*, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
+  *First author.* Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
   *Arxiv*, 2025.
 
 - **On the Perception Bottleneck of VLMs for Chart Understanding**  
-  Junteng Liu\*, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
+  *First author.* Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
   *Arxiv*, 2025. [[Code]](https://github.com/Vicent0205/Vision4Chart)
 
 **2024**
 - **On the Universal Truthfulness Hyperplane Inside LLMs**  
-  Junteng Liu\*, Shiqi Chen, Yu Cheng, Junxian He  
+  *First author.* Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He  
   *EMNLP 2024*. [[Code]](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
 
 - **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**  
@@ -56,8 +56,6 @@ Publications
 - **Composing Parameter-Efficient Modules with Arithmetic Operations**  
   Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He  
   *NeurIPS 2023*.
-
-\* denotes first author.
 
 Skills
 ======
